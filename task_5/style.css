@@ -1,0 +1,8 @@
+#post-container{
+    max-width: 600px;
+    margin:20px auto;
+    padding: 20px;
+}
+#post-container p {
+    color: #333;
+}

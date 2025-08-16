@@ -1,0 +1,24 @@
+h2{
+    color:rgba(255, 0, 230, 0.827,1)
+}
+form{
+    background-color: aqua;
+    padding:20px;
+    border-radius: 10px;
+    margin-top: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+button{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 6px;
+
+}
+button:hover{
+    background-color: rgb(216, 189, 8);
+}
+#errormessage{
+    color: red;
+    font-weight:bold;
+}

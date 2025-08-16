@@ -1,0 +1,34 @@
+
+h1{
+    font-size: 40px;
+    color: #fcd703;
+}
+p{
+    font-size: 20px;
+    line-height: 1.6;
+}
+@media(width:400px){
+    .first{
+        background-color: rgb(81, 19, 83);
+        color:blue
+    }
+
+}
+@media(max-width:500px){
+    h1{
+        font-size: 30px;
+        text-align: centre;
+    }
+    p{
+        font-size: 18px;
+        color:rgb(205, 88, 144);
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+}
+@media(min-width:600px) and (max-width:800px){
+    .second{
+        background-color: rgb(213, 128, 70);
+        color:rgb(232, 205, 3)
+    }
+}
